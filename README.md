@@ -1,3 +1,28 @@
-# Data-Analytics---Quality-Cleaning
+# Data Analytics — Quality Data Cleaning
 
-This project showcases my ability to clean and validate data as part of a larger data analytics workflow for a fictional company, Bruce, Inc. The goal was to ensure data integrity through the application of cleaning techniques, transformations, and validation processes based on a prior data profiling report. Using Excel, I removed or corrected anomalies, applied appropriate transformations, and performed data validation checks such as row count reconciliation and basic statistical analysis (MIN, MAX, AVERAGE) on key variables. The project includes a cleaned Excel file, a validation summary using a provided template, and a distribution analysis to confirm that the cleaned data remains consistent and accurate for future use. This process highlights the importance of data validation in preparing datasets for reliable analysis and integration into larger systems.
+This project showcases my skills in **data cleaning** and **validation** as part of a comprehensive data analytics workflow for a fictional company, **Bruce, Inc**.
+
+## Project Overview
+
+The primary goal was to ensure **data integrity** by applying targeted cleaning techniques, transformations, and validation processes based on insights from an initial data profiling report.
+
+## Key Activities
+
+- Identified and corrected anomalies within the raw dataset using **Excel**.
+- Applied necessary data transformations to standardize and improve data quality.
+- Performed data validation checks including:
+  - **Row count reconciliation**
+  - Basic statistical analysis (**MIN**, **MAX**, **AVERAGE**) on critical variables.
+
+## Deliverables
+
+- A cleaned and well-structured Excel dataset ready for analysis.
+- A detailed **validation summary report** using the provided template.
+- Distribution analysis to verify consistency and accuracy of the cleaned data.
+
+## Significance
+
+This project emphasizes the importance of thorough **data validation** and preparation in creating trustworthy datasets that support reliable analytics and seamless integration with larger systems.
+
+---
+
